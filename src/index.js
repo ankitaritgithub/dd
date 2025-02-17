@@ -2,7 +2,11 @@ import React from 'react';
 import ReactDOM from 'react-dom/client';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
+<<<<<<< HEAD
 import "./index.css"
+=======
+
+>>>>>>> c226316fe625e0cd1bf039f39ed4c41a1a02c194
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
